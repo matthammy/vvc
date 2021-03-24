@@ -1,2 +1,0 @@
-# vvc
- VVC info
